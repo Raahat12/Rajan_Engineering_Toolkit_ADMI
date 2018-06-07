@@ -9,3 +9,4 @@
 * For more info about the list click [here](https://emojipedia.org/wavy-dash/)
 * ![alt text](google-play-store-icon.jpg)
 * <img src="google-play-store-icon.jpg" width="200" hieght="400"/>
+* ![google-play-store-icon.jpg](https://play.google.com/store)
